@@ -7,9 +7,9 @@ learn docker
 ## docker-compose(翻译进度：完成0% )
 - 来源翻译：https://docs.docker.com/compose/overview/
 
-- [veaba翻译的docker-compose文档项目](/docs/docker-compose/docker-compose.md)
+- [veaba翻译的docker-compose文档项目](https://github.com/veaba/learn-docker-compose)
 
 ## docker-swarm(翻译进度：完成30%)
 - 来源翻译：https://docs.docker.com/swarm/overview/
 
-- [veaba翻译的docker-swarm文档项目](https:L//github.com/veaba/docker-compose)
+- [veaba翻译的docker-swarm文档项目](https://github.com/veaba/learn-docker-swarm)
